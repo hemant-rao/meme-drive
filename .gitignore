@@ -9,6 +9,7 @@
 # ignore ui/
 /ui
 /myenv
+/DjangoAPI/settings.py
 # dependencies
 /node_modules
 
